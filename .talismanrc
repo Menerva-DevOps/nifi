@@ -1,0 +1,3 @@
+fileignoreconfig:
+- filename: nifi-docker/dockercompose/docker-compose.yml
+  checksum: 762284ad044a755feabe70131c887f9202800823e0ac2a34de0ecb61d0f19ed1
