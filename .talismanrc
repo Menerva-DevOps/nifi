@@ -1,3 +1,5 @@
 fileignoreconfig:
 - filename: nifi-docker/dockercompose/docker-compose.yml
   checksum: 762284ad044a755feabe70131c887f9202800823e0ac2a34de0ecb61d0f19ed1
+- filename: Kubernetes/zookeeper-deploy.yml
+  checksum: de5a978c1597e7a1f3ee1bd35654ecbdec193cc66b8abd3d4b16b3f23ad901b8
