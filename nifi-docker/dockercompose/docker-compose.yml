@@ -22,7 +22,7 @@ services:
     environment:
       - ALLOW_ANONYMOUS_LOGIN=yes
   nifi:
-    image: traice/nifi:1.15.0
+    image: neron/nifi-python:1.15.0
     ports:
       - 8443 # Unsecured HTTP Web Port
     environment:
